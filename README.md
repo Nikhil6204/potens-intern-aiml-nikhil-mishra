@@ -198,6 +198,8 @@ curl localhost:8000/eval
   a managed vector DB.
 
   ## Demo:
-  [https://github.com/Nikhil6204/potens-intern-aiml-nikhil-mishra/tree/main/docs](https://github.com/Nikhil6204/potens-intern-aiml-nikhil-mishra/blob/main/docs/Screenshot%202026-07-09%20200015.png)
+  <img width="1891" height="912" alt="image" src="https://github.com/user-attachments/assets/23894cbb-9e75-4ff9-9977-e628f22375eb" />
 
-  https://github.com/Nikhil6204/potens-intern-aiml-nikhil-mishra/blob/main/docs/Screenshot%202026-07-09%20200015.png
+  <img width="1911" height="902" alt="image" src="https://github.com/user-attachments/assets/6e8cf634-a8cc-482c-a1d3-cb792dc4fccf" />
+
+
