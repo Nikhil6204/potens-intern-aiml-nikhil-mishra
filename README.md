@@ -196,3 +196,6 @@ curl localhost:8000/eval
 - **Single-writer local Chroma.** Fine for this project's scale; a real
   deployment with concurrent writers would want Chroma running as a server or
   a managed vector DB.
+
+  ## Demo:
+  https://github.com/Nikhil6204/potens-intern-aiml-nikhil-mishra/tree/main/docs
