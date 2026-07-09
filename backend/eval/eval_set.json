@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q1",
+    "question": "How many days does a vendor have to delete Company training data after contract termination?",
+    "expected_doc_id": "doc2_data_privacy_ai_policy",
+    "ground_truth": "30 days"
+  },
+  {
+    "id": "q2",
+    "question": "Within how many hours must a critical model incident be reported to the Model Risk Committee?",
+    "expected_doc_id": "doc3_model_risk_management_guide",
+    "ground_truth": "24 hours"
+  },
+  {
+    "id": "q3",
+    "question": "What is the escalation window for SEV-1 and SEV-2 AI safety incidents to Engineering Leadership and Trust & Safety?",
+    "expected_doc_id": "doc4_ai_incident_response_playbook",
+    "ground_truth": "72 hours"
+  },
+  {
+    "id": "q4",
+    "question": "How long can a vendor retain anonymized derivatives of Company training data for model improvement after contract termination?",
+    "expected_doc_id": "doc5_vendor_ai_procurement_standard",
+    "ground_truth": "up to 12 months"
+  },
+  {
+    "id": "q5",
+    "question": "What are the four risk tiers under the EU AI Act?",
+    "expected_doc_id": "doc1_eu_ai_act_overview",
+    "ground_truth": "Unacceptable risk, high risk, limited risk, minimal risk"
+  },
+  {
+    "id": "q6",
+    "question": "What practices are prohibited outright under the EU AI Act's unacceptable risk category?",
+    "expected_doc_id": "doc1_eu_ai_act_overview",
+    "ground_truth": "Social scoring by public authorities, real-time remote biometric identification in public spaces for law enforcement (with narrow exceptions), subliminal manipulation causing harm, exploitation of vulnerable groups"
+  },
+  {
+    "id": "q7",
+    "question": "How often must Tier 2 models be monitored under the Model Risk Management Guide?",
+    "expected_doc_id": "doc3_model_risk_management_guide",
+    "ground_truth": "At least monthly"
+  },
+  {
+    "id": "q8",
+    "question": "What must a vendor's offboarding plan include upon contract termination?",
+    "expected_doc_id": "doc5_vendor_ai_procurement_standard",
+    "ground_truth": "Data export in a usable format, confirmation of deletion timelines, transition support of no less than 30 days for Tier 1 vendors"
+  },
+  {
+    "id": "q9",
+    "question": "Who has the authority to take containment action unilaterally for SEV-1 incidents?",
+    "expected_doc_id": "doc4_ai_incident_response_playbook",
+    "ground_truth": "The AI Incident Commander"
+  },
+  {
+    "id": "q10",
+    "question": "What is the capital of France?",
+    "expected_doc_id": null,
+    "ground_truth": "NOT_COVERED - this is intentionally out of scope of all 5 documents, to test the no-hallucination guard"
+  }
+]
